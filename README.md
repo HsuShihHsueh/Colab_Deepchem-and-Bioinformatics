@@ -1,4 +1,4 @@
-# 【COlab】Deepchem-and-Bioinformatics
+# 【Colab】Deepchem & Bioinformatics
 
 This repository is temp for the code on colab.
 
